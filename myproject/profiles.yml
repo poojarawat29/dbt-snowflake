@@ -1,9 +1,9 @@
 myproject:
   outputs:
     dev:
-      account: XTBTSLB-AB36628
+      account: *************
       database: dbt
-      password: limited29@P2909
+      password: ***********
       role: accountadmin
       schema: source
       threads: 1
